@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Apps.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Apps.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Apps.Core.dll": {}
+        }
       }
     }
   },
@@ -168,10 +178,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Apps.Core/1.0.0": {
+      "type": "project",
+      "path": "../Apps.Core/Apps.Core.csproj",
+      "msbuildProject": "../Apps.Core/Apps.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Apps.Core >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -204,7 +220,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\IIS\\ASP.NET MOJE\\.NET Core\\Apps.Core\\Apps.Core.csproj": {
+              "projectPath": "D:\\IIS\\ASP.NET MOJE\\.NET Core\\Apps.Core\\Apps.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

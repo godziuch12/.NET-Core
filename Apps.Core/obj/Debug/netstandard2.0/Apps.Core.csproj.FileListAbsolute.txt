@@ -1,0 +1,9 @@
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Core\bin\Debug\netstandard2.0\Apps.Core.deps.json
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Core\bin\Debug\netstandard2.0\Apps.Core.dll
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Core\bin\Debug\netstandard2.0\Apps.Core.pdb
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Core\obj\Debug\netstandard2.0\Apps.Core.csprojAssemblyReference.cache
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Core\obj\Debug\netstandard2.0\Apps.Core.csproj.CoreCompileInputs.cache
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Core\obj\Debug\netstandard2.0\Apps.Core.AssemblyInfoInputs.cache
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Core\obj\Debug\netstandard2.0\Apps.Core.AssemblyInfo.cs
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Core\obj\Debug\netstandard2.0\Apps.Core.dll
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Core\obj\Debug\netstandard2.0\Apps.Core.pdb

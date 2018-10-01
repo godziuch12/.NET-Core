@@ -4746,6 +4746,29 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "Apps.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Apps.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Apps.Core.dll": {}
+        }
+      },
+      "Apps.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Apps.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Apps.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Apps.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -12654,10 +12677,22 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "Apps.Core/1.0.0": {
+      "type": "project",
+      "path": "../Apps.Core/Apps.Core.csproj",
+      "msbuildProject": "../Apps.Core/Apps.Core.csproj"
+    },
+    "Apps.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Apps.Infrastructure/Apps.Infrastructure.csproj",
+      "msbuildProject": "../Apps.Infrastructure/Apps.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Apps.Core >= 1.0.0",
+      "Apps.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.9",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -12691,7 +12726,14 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\IIS\\ASP.NET MOJE\\.NET Core\\Apps.Core\\Apps.Core.csproj": {
+              "projectPath": "D:\\IIS\\ASP.NET MOJE\\.NET Core\\Apps.Core\\Apps.Core.csproj"
+            },
+            "D:\\IIS\\ASP.NET MOJE\\.NET Core\\Apps.Infrastructure\\Apps.Infrastructure.csproj": {
+              "projectPath": "D:\\IIS\\ASP.NET MOJE\\.NET Core\\Apps.Infrastructure\\Apps.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

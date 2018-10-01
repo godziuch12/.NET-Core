@@ -20,4 +20,8 @@
     <ProjectReference Include="..\Apps.Infrastructure\Apps.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Apps.Core\Apps.Core.csproj" />
+  </ItemGroup>
+
 </Project>

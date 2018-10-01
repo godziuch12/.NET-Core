@@ -1,0 +1,16 @@
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\bin\Debug\netcoreapp2.0\Apps.Api.deps.json
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\bin\Debug\netcoreapp2.0\Apps.Api.runtimeconfig.json
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\bin\Debug\netcoreapp2.0\Apps.Api.runtimeconfig.dev.json
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\bin\Debug\netcoreapp2.0\Apps.Api.dll
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\bin\Debug\netcoreapp2.0\Apps.Api.pdb
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\bin\Debug\netcoreapp2.0\Apps.Core.dll
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\bin\Debug\netcoreapp2.0\Apps.Infrastructure.dll
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\bin\Debug\netcoreapp2.0\Apps.Infrastructure.pdb
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\bin\Debug\netcoreapp2.0\Apps.Core.pdb
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\obj\Debug\netcoreapp2.0\Apps.Api.csprojAssemblyReference.cache
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\obj\Debug\netcoreapp2.0\Apps.Api.csproj.CoreCompileInputs.cache
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\obj\Debug\netcoreapp2.0\Apps.Api.AssemblyInfoInputs.cache
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\obj\Debug\netcoreapp2.0\Apps.Api.AssemblyInfo.cs
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\obj\Debug\netcoreapp2.0\Apps.Api.csproj.CopyComplete
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\obj\Debug\netcoreapp2.0\Apps.Api.dll
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Api\obj\Debug\netcoreapp2.0\Apps.Api.pdb

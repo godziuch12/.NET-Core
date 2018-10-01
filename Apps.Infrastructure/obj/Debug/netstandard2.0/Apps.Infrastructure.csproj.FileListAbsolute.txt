@@ -1,0 +1,12 @@
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\bin\Debug\netstandard2.0\Apps.Infrastructure.deps.json
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\bin\Debug\netstandard2.0\Apps.Infrastructure.dll
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\bin\Debug\netstandard2.0\Apps.Infrastructure.pdb
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\bin\Debug\netstandard2.0\Apps.Core.dll
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\bin\Debug\netstandard2.0\Apps.Core.pdb
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\obj\Debug\netstandard2.0\Apps.Infrastructure.csprojAssemblyReference.cache
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\obj\Debug\netstandard2.0\Apps.Infrastructure.csproj.CoreCompileInputs.cache
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\obj\Debug\netstandard2.0\Apps.Infrastructure.AssemblyInfoInputs.cache
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\obj\Debug\netstandard2.0\Apps.Infrastructure.AssemblyInfo.cs
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\obj\Debug\netstandard2.0\Apps.Infrastructure.csproj.CopyComplete
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\obj\Debug\netstandard2.0\Apps.Infrastructure.dll
+D:\IIS\ASP.NET MOJE\.NET Core\Apps.Infrastructure\obj\Debug\netstandard2.0\Apps.Infrastructure.pdb
